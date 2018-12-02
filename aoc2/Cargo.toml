@@ -1,0 +1,6 @@
+[package]
+name = "aoc2_1"
+version = "0.1.0"
+authors = ["Daniel Spang <daniel.spang@distilnetworks.com>"]
+
+[dependencies]
